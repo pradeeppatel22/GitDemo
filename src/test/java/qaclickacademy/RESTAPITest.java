@@ -22,6 +22,8 @@ public class RESTAPITest {
 		System.out.println("postJira10");
 		System.out.println("postJira11");
 		System.out.println("postJira12");
+		System.out.println("postJira13");
+		System.out.println("postJira14");
 		
 		
 		
